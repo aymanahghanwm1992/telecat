@@ -4,7 +4,7 @@ console.log("hello js");
 import TelegramBot from "node-telegram-bot-api";
 import fs from "fs";
 //variables
-const bot = new TelegramBot("5517585912:AAHDQ8QfwsjXBuOH20uLodKPbVS3s98zxOc", {
+const bot = new TelegramBot("5517585 912:AAHDQ8QfwsjXBuOH20uLodKPbVS3s98zxOc", {
   polling: true,
 });
 // const start = {
